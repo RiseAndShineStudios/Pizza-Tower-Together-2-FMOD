@@ -9,7 +9,4 @@ private
 *.sublime-workspace
 
 [Mm]etadata/Workspace.xml
-[Aa]ssets/music
-[Aa]ssets/sfx
-[Aa]ssets/ost
 [Bb]uild
